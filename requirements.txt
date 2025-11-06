@@ -1,0 +1,13 @@
+pandas
+geopandas
+plotly
+folium
+numpy
+streamlit_folium
+requests
+scikit-learn
+statsmodels
+re
+datetime
+itertools
+ipywidgets
